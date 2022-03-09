@@ -29,7 +29,6 @@ This is a list of Windows XP compatible software that is _still being supported_
 
 - [Arctic Fox](https://github.com/wicknix/Arctic-Fox/wiki/Downloads) - Fork of [Pale Moon](https://www.palemoon.org/)
 - [New Moon](https://rtfreesoft.blogspot.com/search/label/newmoon) - Fork of [Pale Moon](https://www.palemoon.org/)
-- [Otter](https://otter-browser.org/) - Classic Opera-inspired browser
 - [Serpent](https://rtfreesoft.blogspot.com/search/label/serpent) - Fork of
   [Basilisk](https://www.basilisk-browser.org/)
 
