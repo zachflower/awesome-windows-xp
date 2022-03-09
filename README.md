@@ -44,8 +44,9 @@ This is a list of Windows XP compatible software that is _still being supported_
 ### Development
 
 - [AutoHotKey](https://www.autohotkey.com/) - Automation scripting language for Windows
-- [ConEmu](https://conemu.github.io/) - Customizable terminal with tabs, splits, quake-style and more.
+- [ConEmu](https://conemu.github.io/) - Customizable terminal with tabs, splits, quake-style and more
 - [gVIM](https://www.vim.org/download.php#pc) - GUI-driven VIM editor
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client
 
 ### Multimedia
 
