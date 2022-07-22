@@ -112,7 +112,6 @@ This is a list of Windows XP compatible software that is _still being supported_
 ### Websites
 
 - [r/windowsxp](https://www.reddit.com/r/windowsxp/) - Windows XP Reddit community
-- [Windows XP Forever](https://xpforever.miraheze.org/wiki/Main_Page#Software) - Wiki dedicated to keeping Windows XP alive
 
 ## Contributing
 
