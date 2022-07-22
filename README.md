@@ -23,7 +23,7 @@ A curated list of resources for running Windows XP in **$CURRENT_DATE**.
 
 This is a list of Windows XP compatible software that is _still being supported_.
 
-**Note**: Because Windows XP isn't receiving any more updates (and hasn't for _quite_ some time), the general definition for "still being supported" is a new build released sometime after January 1, 2020.
+**Note**: Because Windows XP isn't receiving any more updates (and hasn't for _quite_ some time), the general definition for "still being supported" is a new build released sometime after January 1, 2020. For lists of obsolete, abandoned, or unmaintained software that still runs on Windows XP, see the [Legacy Software](#legacy-software) section below.
 
 ### Browsers
 
