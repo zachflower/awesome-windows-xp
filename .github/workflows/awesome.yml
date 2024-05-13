@@ -20,7 +20,4 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0'
-    - name: Test with Awesome Bot
-      run: |
-        gem install awesome_bot
-        awesome_bot README.md --allow-redirect --allow-dupe
+    - run: npx awesome-lint
