@@ -1,9 +1,10 @@
-# Awesome Windows XP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Windows XP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources for running Windows XP in **$CURRENT_DATE**.
 
 ## Contents
 
+<!--lint disable double-link-->
 - [Software](#software)
   - [Browsers](#browsers)
   - [Communication](#communication)
@@ -23,13 +24,10 @@ A curated list of resources for running Windows XP in **$CURRENT_DATE**.
 
 This is a list of Windows XP compatible software that is _still being supported_.
 
-<!--lint disable double-link-->
 **Note**: Because Windows XP isn't receiving any more updates (and hasn't for _quite_ some time), the general definition for "still being supported" is a new build released sometime after January 1, 2020. For lists of obsolete, abandoned, or unmaintained software that still runs on Windows XP, see the [Legacy Software](#legacy-software) section below.
-<!--lint enable double-link-->
 
 ### Browsers
 
-<!--lint disable double-link-->
 - [Arctic Fox](https://github.com/wicknix/Arctic-Fox/wiki/Downloads) - Fork of [Pale Moon](https://www.palemoon.org/).
 - [New Moon](https://rtfreesoft.blogspot.com/search/label/newmoon) - Fork of [Pale Moon](https://www.palemoon.org/).
 - [Serpent](https://rtfreesoft.blogspot.com/search/label/serpent) - Fork of
