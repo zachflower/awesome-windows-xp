@@ -23,8 +23,9 @@ A curated list of resources for running Windows XP in **$CURRENT_DATE**.
 
 This is a list of Windows XP compatible software that is _still being supported_.
 
-<!--lint ignore double-link-->
+<!--lint disable double-link-->
 **Note**: Because Windows XP isn't receiving any more updates (and hasn't for _quite_ some time), the general definition for "still being supported" is a new build released sometime after January 1, 2020. For lists of obsolete, abandoned, or unmaintained software that still runs on Windows XP, see the [Legacy Software](#legacy-software) section below.
+<!--lint enable double-link-->
 
 ### Browsers
 
@@ -48,7 +49,7 @@ This is a list of Windows XP compatible software that is _still being supported_
 - [AutoHotKey](https://www.autohotkey.com/) - Automation scripting language for Windows.
 - [ConEmu](https://conemu.github.io/) - Customizable terminal with tabs, splits, quake-style and more.
 - [gVIM](https://www.vim.org/download.php#pc) - GUI-driven VIM editor.
-- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client.
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - A free SSH and Telnet client.
 
 ### Multimedia
 
@@ -105,12 +106,14 @@ This is a list of Windows XP compatible software that is _still being supported_
 - [Old Version](http://www.oldversion.com/) - Old versions of software for
   Windows, Mac, and Linux systems.
 - [WinWorld](https://winworldpc.com) - ISOs and legacy software for most major.
-  operating systems
+  operating systems.
 
 ### Videos
 
+<!--lint disable awesome-list-item-->
 - [How to Safely Use Windows XP in 2020 and Beyond](https://www.youtube.com/watch?v=j2artqrYWJY) by Adventures in Nostalgia
 - [How to use Steam on Windows XP and Vista in 2021](https://www.youtube.com/watch?v=6-FbdgMar7Q) by Shark Vader
+<!--lint enable awesome-list-item-->
 
 ### Websites
 
